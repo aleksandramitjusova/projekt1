@@ -31,9 +31,17 @@ h2 {
  
 h3 {
     font-size: 1em;
-    text-align: center;
+    text-align: right;
+    max-width: 500px;
+    margin: auto;
+    top: 35%;
+    left: 100%;
+    text-transform: uppercase;
+        bottom: 20px;
+        left: 16px;
+      
 }
- 
+
 p {
     font-family: 'Lora', serif;
     font-size: 1.1em;
